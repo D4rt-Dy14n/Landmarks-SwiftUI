@@ -3,10 +3,10 @@ Project was made according to this manual: [*Introducing SwiftUI*](https://devel
 
 There is an app for iOS, MacOS and WatchOS with the same logic and resources. See the screenshots in [*Screenshots folder*](/Screenshots)
 
-<div align="center">
-  <img src="https://i.ibb.co/Bnf97t2/Simulator-Screen-Recording-Apple-Watch-Ultra-49mm-2023-01-19-at-22-15-33.gif" width="450"/>
-  <img src="https://i.ibb.co/3WtJdQk/Simulator-Screen-Recording-i-Phone-14-Pro-2023-01-19-at-22-13-51.gif" width="800"/>
-</div>
+| iPhone 14 Pro	| Apple Watch Ultra	| Mac |
+|---|---|---|
+| <img src="https://github.com/D4rt-Dy14n/Landmarks-SwiftUI/blob/main/Screenshots/%20iPhone%2014%20Pro.gif" width="300"/>	| <img src="https://github.com/D4rt-Dy14n/Landmarks-SwiftUI/blob/main/Screenshots/Apple%20Watch%20Ultra.gif" width="180"/>	| <img src="https://user-images.githubusercontent.com/59012501/213557770-e42c64af-94dc-4b07-8948-1a79f36423af.mov" width="400"/> |
+
 ## Chapter 1
 ### SwiftUI Essentials
 Learn how to use SwiftUI to compose rich views out of simple ones, set up data flow, and build the navigation while watching it unfold in Xcode’s preview.
