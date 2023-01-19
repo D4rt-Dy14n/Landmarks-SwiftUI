@@ -146,6 +146,8 @@
 		B60515052979CA020066954A /* Screen5.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen5.png; sourceTree = "<group>"; };
 		B60515062979CA030066954A /* Screen6.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen6.png; sourceTree = "<group>"; };
 		B60515072979CA030066954A /* Screen2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Screen2.png; sourceTree = "<group>"; };
+		B60515122979DB0C0066954A /* Apple Watch Ultra.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "Apple Watch Ultra.gif"; sourceTree = "<group>"; };
+		B60515132979DB0D0066954A /*  iPhone 14 Pro.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = " iPhone 14 Pro.gif"; sourceTree = "<group>"; };
 		B648BCD72978316600E55D7F /* ComplicationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ComplicationController.swift; sourceTree = "<group>"; };
 		B648BCD9297857E600E55D7F /* NotificationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationView.swift; sourceTree = "<group>"; };
 		B648BCDB297859E200E55D7F /* NotificationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationController.swift; sourceTree = "<group>"; };
@@ -261,6 +263,8 @@
 		B60514EA2979C97E0066954A /* Screenshots */ = {
 			isa = PBXGroup;
 			children = (
+				B60515132979DB0D0066954A /*  iPhone 14 Pro.gif */,
+				B60515122979DB0C0066954A /* Apple Watch Ultra.gif */,
 				B60514ED2979C9BA0066954A /* iOS */,
 				B60514EC2979C9B00066954A /* WatchOS */,
 				B60514EB2979C9A30066954A /* MacOS */,
