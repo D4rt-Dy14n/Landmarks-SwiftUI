@@ -5,6 +5,7 @@ There is an app for iOS, MacOS and WatchOS with the same logic and resources.
 
 See the screenshots in [*Screenshots folder*](/Screenshots)
 
+| iPhone 14 Pro	| Apple Watch Ultra	| Mac |
 |---|---|---|
 | <img src="https://github.com/D4rt-Dy14n/Landmarks-SwiftUI/blob/main/Screenshots/%20iPhone%2014%20Pro.gif" width="200"/>	| <img src="https://github.com/D4rt-Dy14n/Landmarks-SwiftUI/blob/main/Screenshots/Apple%20Watch%20Ultra.gif" width="150"/>	| <img src="https://user-images.githubusercontent.com/59012501/213557770-e42c64af-94dc-4b07-8948-1a79f36423af.mov" width="500"/> |
 
